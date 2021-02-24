@@ -2,10 +2,10 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
+- project: 국립기상과학원, 재해 관련 기사 판별 
+  role: 뉴스 중복 기사 제거 및 재해 관련 기사 분류기 만들기 (BERT)
+  duration: Aug.2019 &mdash; Dec.2019
+  url: https://github.com/Chuck2Win/MeteorologicalAgencyProject
   description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
 
 # Springfield Community Outreach Group
