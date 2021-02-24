@@ -1,13 +1,15 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
-
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Bachelor of Industrial Engineering
+  uni: Hanyang University
+  year: 2019 &mdash; present
+#   awards:
+#     - award: Summa Cumme Laude graduate
+  summary: 지능 데이터 시스템 연구실(이기천 교수님)에서 머신러닝, 딥러닝을 주로 연구하고 있습니다. 특히나 자연어 처리 등에 관심이 많습니다.
+  
+- degree: Master of Industrial Engineering
+  uni: Hanyang University
+  year: 2011 &mdash; 2018
+  award: 
+  - award: 김치볼 우수 선수상(2012)
+  - award: 챌린지볼 BEST 11(2017)
+  summary: 학부 때 산업공학과에서 생산관리, 데이터 마이닝에 관심을 갖고 열심히 수학하였습니다. 또한 동아리 활동으로 LIONS 미식축구부를 하면서 심신을 단련하고 팀워크 정신을 익혔습니다.
