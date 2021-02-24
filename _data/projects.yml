@@ -2,26 +2,30 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: 재해 관련 기사 판별 [국립 기상 과학원]
-  role: 뉴스 중복 기사 제거 및 재해 관련 기사 분류기 만들기 (BERT)
+- project: 재해 관련 기사 판별 
+  held: 국립 기상 과학원
+  role: 뉴스 중복 기사 제거 및 재해 관련 기사 분류기 만들기
   duration: Aug.2019 &mdash; Dec.2019
   url: https://github.com/Chuck2Win/MeteorologicalAgencyProject
   description: 재해(폭염) 관련 뉴스 기사의 재해 여부 판별 알고리즘 개발하기. 해당 프로젝트에선 BERT를 활용해서 분류기를 만듦.
   
 # Springfield Community Outreach Group
-- project: Kogpt2를 활용한 챗봇 만들기 [인공지능연구소]
+- project: Kogpt2를 활용한 챗봇 만들기 
+  held : 인공지능연구소
   role: 팀장
   duration: Sep.2020 &mdash; Dec.2020
   url: https://github.com/Chuck2Win/chatbot_project
   description: 챗봇에 대해서 학습하고, 오픈소스 데이터를 활용해서 간단한 챗봇을 개발하고, 질문을 했을 때, 맡는 답변과 음악까지 추천하는 코드 작성.
   
-- project: 서울시 불법 주정차 단속 예측 알고리즘 개발 [지니웍스, 오토카지 ,NIA]
+- project: 서울시 불법 주정차 단속 예측 알고리즘 개발 
+  held : 지니웍스, 오토카지 , NIA
   role: 연구원
   duration: Aug.2020 &mdash; Dec.2020
   # url: https://github.com/Chuck2Win/chatbot_project
   description: 서울시에서 중구, 강남구 관련 불법 주정차 단속 데이터를 받아, 고객이 어플에서 해당 위치를 찍었을 때 단속될 확률을 예측하는 알고리즘 개발
   
-- project: 진짜 뉴스를 맞춰봐 [NH 투자증권]
+- project: 진짜 뉴스를 맞춰봐 
+  held : NH 투자증권
   role: 팀장
   duration: Dec.2020 &mdash; Feb.2021
   url: https://github.com/Chuck2Win/NH_project
