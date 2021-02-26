@@ -2,7 +2,7 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: 재해 관련 기사 판별 
+- project: 빅데이터를 이용한 재해기상정보 활용 연구 
   held: 국립 기상 과학원
   role: 뉴스 중복 기사 제거 및 재해 관련 기사 분류기 만들기
   duration: Aug.2019 &mdash; Dec.2019
