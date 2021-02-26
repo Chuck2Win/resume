@@ -23,7 +23,7 @@ resume_contact_address:         ""
 resume_header_contact_info:     ""
 display_header_contact_info:    "false"
 
-resume_header_intro: <p>SOTA 데이터 사이언티스트를 꿈꾸는 학생입니다.</p><p>한양대 산업공학과에서 석사과정을 밟고 있습니다.</p><p> 주 관심 분야 : 자연어처리, 딥러닝, 데이터 생성</p>
+resume_header_intro: <p> SOTA 데이터 사이언티스트를 꿈꾸는 학생입니다. </p><p> 한양대 산업공학과에서 석사과정을 밟고 있습니다. </p><p> 주 관심 분야 : 자연어처리, 딥러닝, 데이터 생성 </p>
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
