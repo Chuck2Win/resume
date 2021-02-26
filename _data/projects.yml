@@ -22,7 +22,7 @@
   role: 연구원
   duration: Aug.2020 &mdash; Dec.2020
   # url: https://github.com/Chuck2Win/chatbot_project
-  description: 서울시 중구, 강남구 관련 불법 주정차 단속 여부 예측 알고리즘 개발
+  description: 서울 중구, 강남구 불법주정 단속여부 예측 알고리즘 개발
 #, 고객이 어플에서 해당 위치를 찍었을 때 단속될 확률
   
 - project: 진짜 뉴스를 맞춰봐 
@@ -30,6 +30,6 @@
   role: 팀장
   duration: Dec.2020 &mdash; Feb.2021
   url: https://github.com/Chuck2Win/NH_project
-  description: NH 투자 증권에서 주최한 공모전.<br>  뉴스와 광고 판별하는 알고리즘 개발.<br>  BERT를 활용함. 정확도와 속도 측면에서 상위 20등 달성.<br>  Distillation 기법 적용해서 경량화된 모델 개발.
+  description: NH 투자 증권에서 주최한 공모전.<br>  뉴스와 광고 판별하는 알고리즘 개발.<br>  BERT를 활용함. 정확도와 속도, 상위 20등.<br>  Distillation 기법 적용해 경량화된 모델 개발.
   
 
