@@ -23,7 +23,7 @@ resume_contact_address:         ""
 resume_header_contact_info:     ""
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p> 데이터 사이언티스트를 꿈꾸는 학생입니다.  /n 현재는 대학원에서 산업공학과에서 석사과정을 밟고 있습니다.  주 관심 분야는 자연어처리, 딥러닝, 머신 러닝입니다.  고집을 부리지 않는 정직하고 능력있는 데이터 사이언티스트가 되고 싶습니다. </p>"
+resume_header_intro: <p> 데이터 사이언티스트를 꿈꾸는 학생입니다.</p><p>현재는 대학원에서 산업공학과에서 석사과정을 밟고 있습니다.</p><p> 주 관심 분야는 자연어처리, 딥러닝, 머신 러닝입니다.</p><p>고집을 부리지 않는 정직하고 능력있는 데이터 사이언티스트가 되고 싶습니다.</p>
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
