@@ -15,7 +15,7 @@
   role: 팀장
   duration: Sep.2020 &mdash; Dec.2020
   url: https://github.com/Chuck2Win/chatbot_project
-  description: 챗봇에 대한 학습,  오픈소스 데이터를 활용한 챗봇 개발,  질문을 했을 때, 맡는 답변과 음악까지 추천하는 모델 개발.
+  description: 챗봇 오픈소스에 대한 학습.<br> 오픈소스 데이터를 활용한 챗봇 개발.<br>  질문을 했을 때, 맡는 답변과 음악까지 추천하는 모델 개발.
   
 - project: 서울시 불법 주정차 단속 예측 알고리즘 개발 
   held : 지니웍스, 오토카지 , NIA
@@ -29,6 +29,6 @@
   role: 팀장
   duration: Dec.2020 &mdash; Feb.2021
   url: https://github.com/Chuck2Win/NH_project
-  description: NH 투자 증권에서 주최한 공모전.  뉴스와 비뉴스(유익한 정보가 없는 뉴스)를 판별하는 알고리즘 개발.  BERT를 활용함. 정확도와 속도 측면에서 상위 20등 달성.  Distillation 기법을 적용해서 경량화된 모델 개발.
+  description: NH 투자 증권에서 주최한 공모전.<br>  뉴스와 비뉴스(유익한 정보가 없는 뉴스)를 판별하는 알고리즘 개발.<br>  BERT를 활용함. 정확도와 속도 측면에서 상위 20등 달성.<br>  Distillation 기법을 적용해서 경량화된 모델 개발.
   
 
