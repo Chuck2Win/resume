@@ -2,7 +2,8 @@
 - skill: Programming Language
   description: python, pytorch, R, scala
 - skill: Language
-  description: Korean, English#주요 언어로는 Python을 쓰며, deep learning frame work로는 pytorch를 활용합니다. 능숙하게 사용할 수 있습니다.
+  description: Korean, English
+#주요 언어로는 Python을 쓰며, deep learning frame work로는 pytorch를 활용합니다. 능숙하게 사용할 수 있습니다.
 # Digital content development and creation
 # Organizational leadership
 - skill: Teamwork
