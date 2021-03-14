@@ -31,5 +31,13 @@
   duration: Dec.2020 &mdash; Feb.2021
   url: https://github.com/Chuck2Win/NH_project
   description: NH 투자 증권에서 주최한 공모전.<br>  뉴스와 광고 판별하는 알고리즘 개발.<br>  BERT를 활용함. 정확도와 속도, 상위 20등.<br>  Distillation 기법 적용해 경량화된 모델 개발.
+
+- project: BERT 직접 구현 및 Pretrain  
+  held : 개인
+  role : 연구원
+  duration: March.2021 &mdash; Present
+  url: https://github.com/Chuck2Win/BERT
+  description: BERT 모델 직접 구현 및 Pretrain (현재 작업 중)
+
   
 
