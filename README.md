@@ -1,3 +1,7 @@
+# 옥창원 site로 가시려면
+https://Chuck2Win.github.io/sota_resume  
+로 가시면 됩니다.
+
 # Resume template
 
 *A simple Jekyll + GitHub Pages powered resume template.*
