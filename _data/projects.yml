@@ -39,5 +39,12 @@
   url: https://github.com/Chuck2Win/BERT
   description: BERT 모델 직접 구현 및 Pretrain (현재 작업 중)
 
+- project: 인공지능을 활용한 타이어 정특성 연구 
+  held : 넥센 타이어
+  role : 연구원
+  duration: March.2021 &mdash; Present
+  #url: https://github.com/Chuck2Win/BERT
+  description: 타이어 정특성 예측을 위한 모델 개발 (작업 중)  
+
   
 
