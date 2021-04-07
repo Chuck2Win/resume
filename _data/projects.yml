@@ -7,7 +7,7 @@
   role: 뉴스 중복 기사 제거 및 재해 관련 기사 분류기 만들기
   duration: Aug.2019 &mdash; Dec.2019
   url: https://github.com/Chuck2Win/MeteorologicalAgencyProject
-  description: BERT를 활용한 분류기<br> 본인의 논문을 적용한 data augmentation.
+  description: 폭염 관련 기사가 재해 관련인지 아닌지를 분류하는 Task.<br> BERT와 문장 길이를 활용한 분류기 개발<br> Class Imbalance 문제 해결을 위해 본인의 논문을 적용한 data augmentation 활용.
   
 # Springfield Community Outreach Group
 - project: Kogpt2를 활용한 챗봇 만들기 
@@ -15,14 +15,14 @@
   role: 팀장
   duration: Sep.2020 &mdash; Dec.2020
   url: https://github.com/Chuck2Win/chatbot_project
-  description: 챗봇 오픈소스에 대한 학습.<br> 오픈소스 데이터를 활용한 챗봇 개발.
+  description: 챗봇 오픈 소스에 대한 학습.<br> 오픈소스 데이터를 활용한 챗봇 개발.<br> kogpt2를 활용했고, 추가로 주어진 문장에 따라 (긍정,부정,중립) 노래도 추천함.
   
 - project: 서울시 불법 주정차 단속 예측 알고리즘 개발 
   held : 지니웍스, 오토카지 , NIA
   role: 연구원
   duration: Aug.2020 &mdash; Dec.2020
   # url: https://github.com/Chuck2Win/chatbot_project
-  description: 서울 중구, 강남구 불법주정 단속여부 예측 알고리즘 개발
+  description: 서울시 강남구, 중구에서 해당 위치의 1시간 뒤 불법 주정차 단속 확률 예측하는 Task.<br> 위경도를 토대로 grid를 만들고 시간(공휴일, 요일, 시간 등)과 격자 정보를 토대로 XG BOOST를 통해 분류기 개발 
 #, 고객이 어플에서 해당 위치를 찍었을 때 단속될 확률
   
 - project: 진짜 뉴스를 맞춰봐 
@@ -30,21 +30,21 @@
   role: 팀장
   duration: Dec.2020 &mdash; Feb.2021
   url: https://github.com/Chuck2Win/NH_project
-  description: NH 투자 증권에서 주최한 공모전.<br>  뉴스와 광고 판별하는 알고리즘 개발.<br>  BERT를 활용함. 정확도와 속도, 상위 20등.<br>  Distillation 기법 적용해 경량화된 모델 개발.
+  description: 뉴스와 광고 판별하는 알고리즘 개발.<br> BERT과 기사의 길이 등을 활용해 분류기 개발<br> Knowledge Distillation 기법 적용해 경량화된 모델 개발.<br> 상위 20등.
 
 - project: BERT 직접 구현 및 Pretrain  
   held : 개인
   role : 연구원
   duration: March.2021 &mdash; Present
   url: https://github.com/Chuck2Win/BERT
-  description: BERT 모델 직접 구현 및 Pretrain (현재 작업 중)
+  description: BERT 모델 직접 구현 및 pretrain.
 
 - project: 인공지능을 활용한 타이어 정특성 연구 
   held : 넥센 타이어
   role : 연구원
   duration: March.2021 &mdash; Present
   url: https://github.com/Chuck2Win/N-Tire
-  description: 타이어 정특성 예측을 위한 모델 개발 (작업 중).<br> 결측치 처리 및 예측 파이프라인 구축, 중요 변수 추출
+  description: 타이어 정특성 예측을 위한 모델 개발.<br> 결측치 처리 및 예측 pipeline 구축.<br> mse기반 최적의 모델 검색 중(ensemble model, neural network)
 
   
 
