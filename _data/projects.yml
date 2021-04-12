@@ -43,7 +43,7 @@
   held : 개인
   role : 연구원
   duration: April.2021 &mdash; April.2021
-  url: https://github.com/Chuck2Win/Attention-is-all-you-need/tree/master
+  url: https://github.com/Chuck2Win/Attention-is-all-you-need
   description: Transformer model 직접 구현을 통한 지식 함양  
 
 - project: 인공지능을 활용한 타이어 정특성 연구 
