@@ -39,6 +39,13 @@
   url: https://github.com/Chuck2Win/BERT
   description: BERT 모델 직접 구현 및 pretrain.
 
+- project: Attention is all you need 직접 구현
+  held : 개인
+  role : 연구원
+  duration: April.2021 &mdash; April.2021
+  url: https://github.com/Chuck2Win/Attention-is-all-you-need/tree/master
+  description: Transformer model 직접 구현을 통한 지식 함양  
+
 - project: 인공지능을 활용한 타이어 정특성 연구 
   held : 넥센 타이어
   role : 연구원
