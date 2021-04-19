@@ -37,7 +37,7 @@
   role : 연구원
   duration: March.2021 &mdash; Present
   url: https://github.com/Chuck2Win/BERT
-  description: BERT 모델 직접 구현 및 pretrain.
+  description: BERT 모델 직접 구현 및 pretrain.<br> pretrain의 경우 나무위키 5만건의 문서로 학습 <br> fine tunning NSMC data로 진행 <br> NSMC test acc 82% 달성
 
 - project: Attention is all you need 직접 구현
   held : 개인
